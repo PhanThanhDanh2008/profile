@@ -56,18 +56,21 @@ Mình bắt đầu hành trình từ con số 0, và hiện tại mình đã tha
 
 ---
 
-## 📞 Liên hệ
+## 🌐 Liên hệ & Mạng xã hội
 
-- 📧 Email: [phanthanhdanh7108@gmail.com](mailto:phanthanhdanh7108@gmail.com)
-- 📱 SĐT: 0326 183 028
-- 🔗 GitHub / LinkedIn / YouTube: cập nhật sau
+- 📧 Email: [phanthanhdanh7108@gmail.com](mailto:phanthanhdanh7108@gmail.com)  
+- 📞 SĐT: 0326 183 028  
+- 🧠 **LinkedIn**: [phan-thành-danh](https://www.linkedin.com/in/phan-th%C3%A0nh-danh-4a298734b/)  
+- 🐦 **Twitter/X**: [@Danzo_Dex](https://x.com/Danzo_Dex)  
+- 💻 **GitHub**: [PhanThanhDanh2008](https://github.com/PhanThanhDanh2008)  
+- 📘 **Facebook**: [Phan Thành Danh](https://www.facebook.com/thanh.danh.phan.941321?locale=vi_VN)
 
 ---
 
 ## 📌 Ghi chú
 
-- Giao diện mang phong cách **Cyberpunk HUD**: neon, glow, scroll mượt
-- Toàn bộ code thuần HTML/CSS/JS – không cần backend
+- Giao diện mang phong cách **Cyberpunk HUD**: neon, glow, scroll mượt  
+- Toàn bộ code thuần HTML/CSS/JS – không cần backend  
 - Có thể deploy dễ dàng lên GitHub Pages, Netlify hoặc Vercel
 
 ---
